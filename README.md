@@ -1,27 +1,30 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
-
-
-Hi there! Welcome to Cloud9 IDE!
-
-To get you started, we included a small hello world application.
-
-1) Open the hello-world.html file
-
-2) Click on the Preview button to open a live preview pane
-
-3) Make some changes to the file, save, watch the preview, and have fun!
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
-# my-first-website
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Hello World</title>
+	<link rel="stylesheet" href="css/style.css" type="text/css" />
+</head>
+  <body>
+	<nav>
+		<ul>
+		<li><a href="stream-one.html">Stream One</a></li>
+		<li><a href="stream-two.html">Stream two</a></li>
+		<li><a href="stream-three.html">Stream three</a></li>
+		</ul>
+	</nav>
+	<h1>Stream-One</h1>
+			<div class="card">
+				<a href="https://en.wikipedia.org/wiki/HTML5">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"/>
+                    <h2>HTML5</h2>
+                    </a>
+                    </div>
+                    <div class="card">
+                    	<a href="https://commons.wikimedia.org/wiki/File:CSS3_and_HTML5_logos_and_wordmarks.svg">
+                    		<img src="https://upload.wikimedia.org/wikipedia/commons/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg"/>
+                    		<h2>CSS3 and HTML5</h2>
+                    	</a>
+                    	
+                    </div>
+              </body>
+              </html>
